@@ -53,12 +53,12 @@ layers:
   - {t: ., s: '>'}
   - {t: /, s: '?'}
   - '|'
+  - $$mdi:volume-off$$
   - '1'
   - LGUI
   - $$mdi:apple-keyboard-option$$
   - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:keyboard-space$$
-  - {t: '$$mdi:transfer$$', type: trans}
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - '2'
