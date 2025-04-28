@@ -6,7 +6,7 @@
 #include <dt-bindings/zmk/rgb.h>
 
 #include <input/processors.dtsi>
-#include "keys_fi.h"
+#include "zmklocales/keys_fi.h"
 
 /*
 
